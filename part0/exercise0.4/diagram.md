@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
     subgraph Browser
         A[User enters GET https://studies.cs.helsinki.fi/exampleapp/]
@@ -16,3 +17,4 @@ flowchart LR
     H --> C
     C --> I
     I --> D
+```
